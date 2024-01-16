@@ -1,0 +1,14 @@
+<?xml version="1.0"?>
+<package >
+  <metadata>
+    <id>$id$</id>
+    <version>$version$</version>
+    <title>$title$</title>
+    <authors>Toolhouse</authors>
+    <owners>Toolhouse</owners>
+    <licenseUrl>http://www.apache.org/licenses/LICENSE-2.0</licenseUrl>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>Library for adding CORS to WebApi projects.</description>
+    <copyright>Copyright 2020</copyright>
+  </metadata>
+</package>

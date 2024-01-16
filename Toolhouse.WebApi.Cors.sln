@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.1022
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Toolhouse.WebApi.Cors", "Toolhouse.WebApi.Cors\Toolhouse.WebApi.Cors.csproj", "{C22F0541-9E98-4E26-A908-756E38EFE117}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Toolhouse.WebApi.Cors.Tests", "Toolhouse.WebApi.Cors.Tests\Toolhouse.WebApi.Cors.Tests.csproj", "{22E8762B-9658-4D6A-BFA5-A134D72F228A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C22F0541-9E98-4E26-A908-756E38EFE117}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C22F0541-9E98-4E26-A908-756E38EFE117}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C22F0541-9E98-4E26-A908-756E38EFE117}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C22F0541-9E98-4E26-A908-756E38EFE117}.Release|Any CPU.Build.0 = Release|Any CPU
+		{22E8762B-9658-4D6A-BFA5-A134D72F228A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{22E8762B-9658-4D6A-BFA5-A134D72F228A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{22E8762B-9658-4D6A-BFA5-A134D72F228A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{22E8762B-9658-4D6A-BFA5-A134D72F228A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A28ED214-1DD8-40F8-AB76-B265578F9FCD}
+	EndGlobalSection
+EndGlobal
